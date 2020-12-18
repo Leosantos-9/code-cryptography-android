@@ -1,4 +1,3 @@
-package com.oel.paginacao
 
 import android.content.Context
 import android.content.SharedPreferences
